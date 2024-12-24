@@ -39,14 +39,19 @@ Additionally, Terraform can automate the provisioning and management of these re
 Before we setup the project, let's setup terraform on our ubuntu server.
 
 - Install Terraform on the server and then confirm installation using the command `terraform -v`
+
 ![alt text](<Images/terraform install conf.PNG>)
 
 - Next, create a project directory and cd into the directory.
+
 ![alt text](<Images/project directory.PNG>)
+
 - Install and configure AWS CLI on the server
+
 ![alt text](<Images/aws configure.PNG>)
 
 - create Terraform main configuration file
+
 ![alt text](<Images/main conf.PNG>)
 
 
