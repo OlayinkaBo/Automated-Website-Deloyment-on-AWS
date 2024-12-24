@@ -1,4 +1,6 @@
-# Automated-Website-Deloyment-on-AWS
+# Automated-Website-Deployment-on-AWS
+
+## Project Task 
 Digiboost, a digital marketing agency aims to elevate its online presence by launching a high-performance Wordpress website for their clients. As an AWS solutions architect, your task is to design and implement a scalable secure and cost-effective Wordpress solution using various AWS services. Automation through Terraform will be key to achieving a streamlined and reproducible deployment process.
 
 ## Project Overview
